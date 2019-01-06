@@ -1,13 +1,8 @@
-With using MySQL local server, before creating a table of BOOKS,
-initialization for the connection is like below is required.
+1.
+If JDBC driver for MySQL is not installed in your computer,
+Please save the file, mysql-connector-java-5.1.39-bin.jar or its higher version (https://dev.mysql.com/downloads/connector/j/5.1.html)
+in the folder below.
+C:\ProgramFiles\java\jdk1.xxx>jre>lib>ext
 
--- Creating a new connection --
-Connection Name: library
-Connection Method: Standard(TCP/IP)
-Hostname: localhost
-port: 3306
-Username: root
-password: the password set for root, which should be used in Main.java as well.
-
--- Creating a new schema after logging in the connection --
-Name of the schema: bookshelf
+2.
+When the program runs, clicking a result row, detailed information of the book is shown.
