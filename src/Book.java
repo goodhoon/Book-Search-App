@@ -41,6 +41,6 @@ class Book {
 	}
 	
 	public String toString() {
-		return String.format("ID: %d%nTitle: %s, by %s%nISBN: %s%nPublisher: %s%nStatus=%s\n", id, title, author, ISBN, publisher, status);
+		return String.format("ID: %d%nTitle: %s, by %s%nISBN: %s%nPublisher: %s%nStatus=%s", id, title, author, ISBN, publisher, status);
 	}
 }

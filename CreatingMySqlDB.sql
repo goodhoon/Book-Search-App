@@ -25,3 +25,10 @@ INSERT INTO `books` (`book_ID`,`title`,`author`,`ISBN`,`publisher`,`status`) VAL
 INSERT INTO `books` (`book_ID`,`title`,`author`,`ISBN`,`publisher`,`status`) VALUES (1011,'SQL : the complete reference','James R Groff','0072225599','Osborne/McGraw-Hill','On loan');
 INSERT INTO `books` (`book_ID`,`title`,`author`,`ISBN`,`publisher`,`status`) VALUES (1012,'Beginning SQL server 2000 programming','Robin Dewson','9781430208044','Wrox Press','Available');
 INSERT INTO `books` (`book_ID`,`title`,`author`,`ISBN`,`publisher`,`status`) VALUES (1013,'Oracle PL/SQL best practices','Steven Feuerstein','9780596001216','Cambridge Mass. : O\'Reilly','Available');
+INSERT INTO `books` (`book_ID`,`title`,`author`,`ISBN`,`publisher`,`status`) VALUES (1014,'Pro JavaScript techniques','John Resig','9781430263913','Apress.','On loan');
+INSERT INTO `books` (`book_ID`,`title`,`author`,`ISBN`,`publisher`,`status`) VALUES (1015,'Introduction to software engineering','Ronald J Leach','0849314453','CRC Press','Available');
+INSERT INTO `books` (`book_ID`,`title`,`author`,`ISBN`,`publisher`,`status`) VALUES (1016,'A concise introduction to software engineering','Pankaj Jalote','9781848003026','Springer','On loan');
+INSERT INTO `books` (`book_ID`,`title`,`author`,`ISBN`,`publisher`,`status`) VALUES (1017,'Effective Java','Joshua Bloch','0849314453','Addison-Wesley','On loan');
+INSERT INTO `books` (`book_ID`,`title`,`author`,`ISBN`,`publisher`,`status`) VALUES (1018,'Learning JavaScript','Shelley Powers','9780596521875','Oreilly 2008','Available');
+INSERT INTO `books` (`book_ID`,`title`,`author`,`ISBN`,`publisher`,`status`) VALUES (1019,'Learning Python','Mark Lutz','9780596158064','O\'Reilly','Available');
+INSERT INTO `books` (`book_ID`,`title`,`author`,`ISBN`,`publisher`,`status`) VALUES (1020,'Python cookbook','Alex Martelli','0596001673','O\'Reilly','On loan');
